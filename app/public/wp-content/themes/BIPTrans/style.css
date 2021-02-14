@@ -1,0 +1,98 @@
+body {
+  background-color: grey;
+}
+
+.text-color-biptrans-primary {
+  color: #1b9ddd;
+}
+
+.sky-blue {
+  background-color: #f1f6f6;
+}
+
+.container.content {
+  min-height: 94vh;
+  padding: 0;
+  background-color: white;
+  max-width: 1100px;
+}
+
+.jumbotron {
+  min-height: 90vh;
+  position: relative;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.footer {
+  min-height: 150px;
+  color: white;
+  font-size: 0.8em;
+}
+
+.footer-left {
+  background-color: #0c91d2;
+}
+
+.footer-color {
+  background-color: #1b9ddd;
+}
+
+.my-navbar {
+  min-height: 100px;
+  background-color: #1b9ddd;
+}
+
+.my-navbar .nav-item {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.my-navbar a {
+  color: white;
+}
+
+.rect {
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.rect > .accent {
+  width: 90px;
+  height: 4px;
+  background: linear-gradient(
+    89.84deg,
+    rgba(64, 160, 166, 0.75) 0.14%,
+    rgba(242, 246, 246, 0) 99.89%
+  );
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.title {
+  color: #1e8fc7;
+}
+
+.rect > .desc {
+  color: black;
+}
+
+.client-logo {
+  width: 100px;
+  height: 100px;
+}
+
+.client-card {
+  margin: 30px;
+}
+
+.service-image {
+  height: 350px;
+  width: 100%;
+}
+
+.text-excerpt {
+  color: black;
+}
